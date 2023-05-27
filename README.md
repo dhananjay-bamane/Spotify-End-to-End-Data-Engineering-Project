@@ -22,7 +22,7 @@ This API contains information about the music artist, albums & songs – [Spotif
 ```
 pip install pandas
 pip install numpy
-pip install spotify
+pip install spotipy
 ```
 ### Project Execution Flow
 Extract Data from API –> Lambda Trigger –> Run Extract Code –> Store it Raw Data –> Trigger Transform Function –> Transform Data and Load It –> Query Using Athena
