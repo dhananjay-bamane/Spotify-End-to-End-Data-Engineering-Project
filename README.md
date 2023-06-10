@@ -18,6 +18,10 @@ This API contains information about the music artist, albums & songs – [Spotif
 6. **Data Catalog:** The AWS Glue Data Catalog contains references to data that is used as sources and targets of your extract, transform, and load (ETL) jobs in AWS Glue. To create your data warehouse or data lake, you must catalog this data. The AWS Glue Data Catalog is an index of your data's location, schema, and runtime metrics.
 7. **AWS Athena:** Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL. With a few actions in the AWS Management Console, you can point Athena at your data stored in S3 and begin using standard SQL to run ad-hoc queries and get results in seconds.
 
+## Technologies Used:
+
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Jupyter Notebook-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Spotify API-darkgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-Pandas-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge">
+
 ### Install Packages
 ```
 pip install pandas
